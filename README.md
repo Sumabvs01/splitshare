@@ -1,6 +1,6 @@
 # Splitwise Lite
 
-An interview-ready Expense Splitter for trips and shared group spending. It keeps participant contributions, exact paise-level shares, balances, and a minimal settlement plan in one clear dashboard.
+An Expense Splitter for trips and shared group spending. It keeps participant contributions, exact paise-level shares, balances, and a minimal settlement plan in one clear dashboard.
 
 ## Features
 
