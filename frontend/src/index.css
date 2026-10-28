@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{background:#f5f8f4}*{box-sizing:border-box}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #176b4c;outline-offset:2px}
